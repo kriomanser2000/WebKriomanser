@@ -1,0 +1,12 @@
+body
+{
+    background-image: url("./imgs/aryanClassic.jpg");
+    background-position: center;
+    background-size: contain;
+    width: 50%;
+    height: 20vh;
+}
+audio
+{
+    display: none;
+}
